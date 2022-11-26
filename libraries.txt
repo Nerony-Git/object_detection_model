@@ -17,14 +17,14 @@ Jinja2==2.9.6
 jsonschema==2.6.0
 lxml==3.8.0
 Markdown==2.2.0
-MarkupSafe==1.0
-matplotlib==2.0.2
+markupsafe
+matplotlib
 mistune==0.7.4
 nbconvert==5.2.1
 nbformat==4.4.0
 numpy==1.13.0
 olefile==0.44
-opencv-python==3.3.0.9
+opencv-python
 pandocfilters==1.4.2
 pexpect==4.2.1
 pickleshare==0.7.4
@@ -40,7 +40,7 @@ pyzmq==16.0.2
 qtconsole==4.3.1
 simplegeneric==0.8.1
 six==1.10.0
-tensorflow==1.2.0
+tensorflow
 terminado==0.6
 testpath==0.3.1
 tornado==4.5.1
